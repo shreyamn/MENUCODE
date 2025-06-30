@@ -44,7 +44,7 @@ def visualize_data():
 # ---------- Main App ----------
 st.set_page_config("🍽️ Menu Analysis App", layout="centered")
 st.markdown("# 🍽️ Menu Analysis App")
-st.markdown("Welcome! Rate your favorite dishes or view ratings as a chef.")
+st.markdown("Welcome! View ratings as a chef.")
 
 init_data()
 
