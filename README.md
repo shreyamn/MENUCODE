@@ -16,7 +16,7 @@ A real-time menu feedback app built using **Python** and **Streamlit** where:
   - Rate each item on a scale from 1 to 5
 - 👨‍🍳 Chef view:
   - Password-protected access
-  - Visualize ratings in **Pie Charts** and **Bar Charts**
+  - Visualize ratings in **Pie Charts** 
 - 🔄 Real-time updates using Streamlit and CSV
 - 🎨 Styled with emojis and clean Streamlit UI
 
@@ -30,3 +30,5 @@ Install the required libraries:
 
 ```bash
 pip install streamlit pandas matplotlib
+run by:
+streamlit run menu_analysis.py
